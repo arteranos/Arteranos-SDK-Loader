@@ -47,7 +47,7 @@ public static class LoadSDK
 
             // ... and, clean up behind yourself.
             Directory.Delete("Assets/LoadSDK", true);
-            File.Delete("Assets/LoadSDk.meta");
+            File.Delete("Assets/LoadSDK.meta");
         }
     }
 
